@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            I am a website. Hear me roar.
+tagline:          'A Tagline Is Me'
+description:      'I am a description. OMG I am describing some stuff.' 
+url:              https://github.com/jrdawson758/website
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Jo Dawson'
   url:            https://twitter.com/mdo
 
 paginate:         5
